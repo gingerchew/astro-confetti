@@ -1,6 +1,3 @@
-/**
- * @type {() => import('astro').AstroIntegration}
- */
 import JSConfetti from 'js-confetti';
 let confetti;
 export default {
