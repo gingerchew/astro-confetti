@@ -1,7 +1,7 @@
 {
-  "name": "astro-dev-toolbar-confetti",
+  "name": "astro-confetti",
   "type": "module",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "dev": "astro dev",
@@ -11,9 +11,20 @@
     "astro": "astro"
   },
   "dependencies": {
+    "js-confetti": "^0.11.0"
+  },
+  "keywords": [
+    "withastro",
+    "astro",
+    "astro-integration"
+  ],
+  "repository": {
+    "url": "https://github.com/gingerchew/astro-confetti.git"
+  },
+  "homepage": "https://astro-confetti.ginger.wtf",
+  "devDependencies": {
     "@astrojs/check": "^0.3.1",
-    "astro": "^4.0.1",
-    "js-confetti": "^0.11.0",
+    "astro": "^4.0.2",
     "typescript": "^5.3.2"
   }
 }
