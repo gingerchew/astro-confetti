@@ -2,7 +2,7 @@
   "name": "astro-confetti",
   "type": "module",
   "description": "Add a confetti button to your Astro Dev Toolbar for morale support.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "dev": "astro dev",
